@@ -1,0 +1,3 @@
+[submodule "EternaBrain"]
+	path = EternaBrain
+	url = https://github.com/eternagame/EternaBrain
